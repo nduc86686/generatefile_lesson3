@@ -1,4 +1,4 @@
-class dev {
+class model {
 constructor(id, name, createdAt, updatedAt) {
 this.id = id;
 this.name = name;
@@ -7,4 +7,4 @@ this.updatedAt = updatedAt;
 }
 }
 
-module.exports = dev;
+module.exports = model;

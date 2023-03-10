@@ -1,6 +1,6 @@
 const dev = require('../models/dev');
 
-class devController {
+class controller {
 create(req, res) {
 // TODO: Implement create function
 }
@@ -22,4 +22,4 @@ show(req, res) {
 }
 }
 
-module.exports = devController;
+module.exports = controller;
